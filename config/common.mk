@@ -96,7 +96,7 @@ PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/modelid_cfg.sh:system/bin/modelid_cfg.sh
 
 PRODUCT_COPY_FILES +=  \
-     vendor/pa/proprietary/paranoid/ParanoidPreferences.apk:system/app/ParanoidPreferences.apk
+#     vendor/pa/proprietary/paranoid/ParanoidPreferences.apk:system/app/ParanoidPreferences.apk
 
 # Bring in camera effects
 PRODUCT_COPY_FILES +=  \
